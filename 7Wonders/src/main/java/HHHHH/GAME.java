@@ -67,8 +67,7 @@ public class GAME {
         System.out.println("Vous avez pioché une carte");
 
     }
-
-
+    
     public static void main(String[]args){
 
         System.out.println("Yoyoyo");
