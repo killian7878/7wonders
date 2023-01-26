@@ -8,6 +8,10 @@ public class greenCard extends TypeCard {
         this.object = object;
     }
 
+    public String getObject() {
+        return object;
+    }
+
 }
 
 

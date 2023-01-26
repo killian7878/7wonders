@@ -8,4 +8,8 @@ public class greyCard extends TypeCard {
         this.ressource=ressource;
     }
 
+    public  String getRessource() {
+        return ressource;
+    }
+
 }

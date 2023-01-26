@@ -7,4 +7,8 @@ public class blueCard extends TypeCard {
         super(color);
         this.points=points;
     }
+
+    public int getPoints() {
+        return points;
+    }
 }

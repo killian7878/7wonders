@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc13c69-59c8-46c1-9ad8-8de743da72b4" name="Changes" comment="" />
+    <list default="true" id="ecc13c69-59c8-46c1-9ad8-8de743da72b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/GAME.java" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/GAME.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/blueCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/blueCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/greenCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/greenCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/greyCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/greyCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/redCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/redCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/GAME.class" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/GAME.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/blueCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/blueCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/greenCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/greenCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/greyCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/greyCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/redCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/target/classes/HHHHH/redCard.class" afterDir="false" />
+    </list>
+    <list id="d8d2c2ee-5428-4b3d-bea0-b8d4cc28e3f2" name="Changes by Dom" comment="">
+      <change beforePath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/GAME.java" beforeDir="false" afterPath="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/GAME.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +36,30 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/7Wonders/src/main/java/HHHHH/GAME.java">
+      <ranges>
+        <range start1="6" end1="8" start2="6" end2="6" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="10" end1="13" start2="8" end2="20" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="14" end1="14" start2="21" end2="25" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="15" end1="22" start2="26" end2="51" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="27" end1="29" start2="56" end2="69" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="31" end1="33" start2="71" end2="77" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="35" end1="37" start2="79" end2="85" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="39" end1="41" start2="87" end2="91" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="45" end1="45" start2="95" end2="107" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="46" end1="47" start2="108" end2="109" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="53" end1="56" start2="115" end2="116" changelist="d8d2c2ee-5428-4b3d-bea0-b8d4cc28e3f2" />
+        <range start1="58" end1="59" start2="118" end2="119" changelist="d8d2c2ee-5428-4b3d-bea0-b8d4cc28e3f2" />
+        <range start1="64" end1="65" start2="124" end2="125" changelist="d8d2c2ee-5428-4b3d-bea0-b8d4cc28e3f2" />
+        <range start1="69" end1="71" start2="129" end2="158" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="73" end1="73" start2="160" end2="162" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="74" end1="82" start2="163" end2="169" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="83" end1="83" start2="170" end2="171" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+        <range start1="84" end1="85" start2="172" end2="173" changelist="ecc13c69-59c8-46c1-9ad8-8de743da72b4" />
+      </ranges>
+    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,7 +80,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/maxqg/Documents/GitHub/7wonders&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maxqg/Documents/GitHub/7wonders&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RunManager">

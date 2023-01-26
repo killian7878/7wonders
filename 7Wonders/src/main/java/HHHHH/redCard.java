@@ -7,4 +7,7 @@ public class redCard extends TypeCard {
         super(color);
         this.shield = shield;
     }
+    public int getShield() {
+        return shield;
+    }
 }
